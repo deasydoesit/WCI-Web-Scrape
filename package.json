@@ -1,0 +1,32 @@
+{
+  "name": "wci-web-scrape",
+  "version": "1.0.0",
+  "description": "Web Scraper to get name/ticker info per coin on WorldCoinIndex",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "jsonframe-cheerio": "^3.0.1",
+    "npm": "^6.1.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/deasydoesit/WCI-Web-Scrape.git"
+  },
+  "keywords": [
+    "WorldCoinIndex",
+    "Web",
+    "Scraper"
+  ],
+  "author": "Darwin Rinderer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deasydoesit/WCI-Web-Scrape/issues"
+  },
+  "homepage": "https://github.com/deasydoesit/WCI-Web-Scrape#readme"
+}
